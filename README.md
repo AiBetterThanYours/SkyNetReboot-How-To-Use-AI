@@ -6,7 +6,9 @@ SkyNet has been rebooted... but this time, it’s here to help you master AI (no
 # Guide to Using AI and Real-Time Search Tools
 
 ## **1. Overview**
-This guide explains how to use AI (e.g., OpenAI ChatGPT) in combination with real-time search tools to get better results. While AI cannot directly fetch real-time data, you can provide it with information from search tools to receive creative and practical responses.
+This guide explains how to use AI (e.g., OpenAI ChatGPT) in combination with real-time search tools to get better results. While AI cannot directly search real-time data, you can provide it with information from search tools to receive creative and practical responses.  
+**Logical thinking and speaking in a way that the other person understands leads to better answers.** The more clearly and specifically you write your prompts, the more useful the answers will be.
+
 
 ---
 
